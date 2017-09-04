@@ -240,3 +240,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Asset Files ==> jpg, mp4 etc
+*.jpg
+*.png
+*.ogg
