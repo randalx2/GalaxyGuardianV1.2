@@ -1,0 +1,40 @@
+﻿  Alien.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  AlienBullet.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  Asteroid.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  Background.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  BaseObject.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  SubBoss.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  Bullet.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  Explosion.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  main.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  PowerUp.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  Spaceship.cpp
+c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): warning C4005: 'ALLEGRO_STATICLINK': macro redefinition
+  c:\users\praneel\documents\visual studio 2013\projects\compmethods3\allegro game development\aliencode 2.0 - 13 april backup\aliencode 2.0\aliencode\BaseObject.h(5): note: command-line arguments:  see previous definition of 'ALLEGRO_STATICLINK'
+  Generating code
+  0 of 261 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AlienCode.vcxproj -> C:\Users\Praneel\Documents\Visual Studio 2013\Projects\CompMethods3\ALLEGRO GAME DEVELOPMENT\AlienCode 2.0 - 13 April BACKUP\AlienCode 2.0\Release\AlienCode.exe
+  AlienCode.vcxproj -> C:\Users\Praneel\Documents\Visual Studio 2013\Projects\CompMethods3\ALLEGRO GAME DEVELOPMENT\AlienCode 2.0 - 13 April BACKUP\AlienCode 2.0\Release\AlienCode.pdb (Full PDB)

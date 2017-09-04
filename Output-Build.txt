@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: AlienCode, Configuration: Debug Win32 ------
+1>  main.cpp
+1>  AlienCode.vcxproj -> C:\Users\Praneel\Documents\Visual Studio 2013\Projects\CompMethods3\ALLEGRO GAME DEVELOPMENT\AlienCode 2.0 - 13 April BACKUP\AlienCode 2.0\Debug\AlienCode.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
